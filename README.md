@@ -4,7 +4,7 @@ Unified Platform for Syndromic Mapping, Testing, Analytics and Consultation
 Project Description
 
 UPSTAC application is aimed to make heathcare system virtual. 
-Here there are four 
+Here there are four key players of this application
 1. Patient : Can request for a test 
 2. Lab Tester : Can view tests and assign it to himself/herself.
 Lab Tester will visit patient and take health parameters and sample from patient.
